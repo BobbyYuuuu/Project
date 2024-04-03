@@ -25,4 +25,9 @@ What I have done so far with this lab
 - [x] Made VScode Branch
 - [ ] edit index.md
 
+[I used this page as a reference on writing this page](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+
+Here is a screenshot of my commits
+![screenshot of my commits](screenshots/screenshot1.png)
+
 [Move to top](#about-me)
