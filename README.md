@@ -1,2 +1,1 @@
-# Project
-CSE110
+Hongan's User Page
