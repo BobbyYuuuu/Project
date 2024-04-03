@@ -10,6 +10,7 @@ I'm a third year Math-CS student at UCSD, I have been taking coding courses in t
 ## Past
 I was born in *China*, and immigrated to *United States* when I was 8, and I lived in San Francisco for most part of the time.
 > I also lived in Texas for 6 months which I did not like
+
 ## Hobby
 I play a variety of sports such as 
 1. basketball 
