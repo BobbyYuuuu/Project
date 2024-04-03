@@ -1,2 +1,8 @@
 # About me
-    I'm a third year Math-CS student at UCSD, I have been taking coding courses in the past three years, I have used phyton, java, and C++ as a coding language
+    I'm a third year Math-CS student at UCSD, I have been taking coding courses in the past three years, I have used **phyton**, **java**, and **C++** as a coding language.
+## Past
+    I was born in *China*, and immigrated to *United States* when I was 8, and I lived in San Francisco for most part of the time.
+    > I also lived in Texas for 6 months which I did not like
+## Hobby
+    I play a variety of sports such as basketball and badminton, I also enjoy playing video games and reading novels.
+[Move to top](# About me)    
